@@ -1,0 +1,20 @@
+
+// Write your custom style. Feel free to split your code to several files
+.bg-home-left {
+  background-image: url('images/bg-1-1.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.bg-yellow {
+  background-color: #ffffc5 !important;
+}
+.bg-green {
+  background-color: #83b582;
+  color: #fff;
+}
+.btn-green {
+  color: #fff;
+  background-color: #83b582;
+  border-color: #83b582;
+}
